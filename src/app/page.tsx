@@ -1,9 +1,3 @@
-import Image from "next/image";
-import { FaCalendarAlt, FaCheckCircle } from "react-icons/fa";
-import { CiLocationOn } from "react-icons/ci";
-import Link from "next/link";
-import Arrow from "../../public/arrow";
-import { FaVialCircleCheck } from "react-icons/fa6";
 import Banner from "./components/Banner";
 import About from "./components/About";
 import Features from "./components/Features";
