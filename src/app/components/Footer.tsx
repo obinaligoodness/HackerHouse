@@ -10,9 +10,9 @@ const Footer =()=>{
               <li>• Meals will be provided</li>
             </ul>
             <div className="flex items-center space-x-4 mt-12">
-              <img src="/semicolon-logo.svg" alt="Semicolon Logo" className="h-6" />
+              <img src="/semicolon-logo.svg" alt="Semicolon Logo" className="h-6 cursor-pointer" />
               <span className="text-gray-400">|</span>
-              <img src="/sui-logo.svg" alt="Sui Logo" className="h-6" />
+              <img src="/sui-logo.svg" alt="Sui Logo" className="h-6 cursor-pointer" />
             </div>
           </div>
           <div>
