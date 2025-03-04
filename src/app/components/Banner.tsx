@@ -12,11 +12,11 @@ const Banner = () => {
             </div>
             <div className=""><img src="/woman image.svg" alt="Web3 Icon" className="w-[500px] h-[300px] mr-2" /></div>
             <div className="text-semibold text-center text-3xl italic text-cyan-400 mb-8">Road to Sui overflow</div>
-            <div className="relative text-center ">
+            <div className="">
 
-                <div className="translate-y-12 mx-auto mt-8 w-full max-w-4xl px-4">
-                    <div className="rounded-xl bg-white p-6 shadow-lg">
-                        <div className="grid gap-6 md:gap-12 md:grid-cols-3">
+                <div className="translate-y-32 md:translate-y-12 mx-auto mt-8 w-full max-w-4xl px-4">
+                   
+                        <div className="grid gap-6 md:gap-12 md:grid-cols-3 rounded-xl bg-white p-6 shadow-lg w-full absolute-left-1/2">
 
                             <div className="flex gap-3">
                                 <CalendarIcon></CalendarIcon>
@@ -26,7 +26,7 @@ const Banner = () => {
                                 </div>
                             </div>
 
-                            <div className="flex  gap-3">
+                            <div className="flex   gap-3">
                                 <LocationIcon></LocationIcon>
                                 <div className ="flex flex-col items-start">
                                     <p className="font-bold text-gray-800">312 Herbert Macaulay,</p>
@@ -42,7 +42,6 @@ const Banner = () => {
                                 </div>
                             </div>
                         </div>
-                    </div>
 
                 </div>
             </div>
