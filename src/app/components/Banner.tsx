@@ -4,7 +4,7 @@ import LocationIcon from "../../../public/LocationIcon"
 
 const Banner = () => {
     return (
-        <div className=" flex flex-col relative bg-gradient-to-b from-[#051027] to-[#071a3e] text-white h-[600px] flex items-center justify-center">
+        <div className=" flex flex-col relative bg-gradient-to-b from-[#051027] to-[#071a3e] text-white sm:h-[700px]  md:h-[600px] items-center justify-center">
             <div className="flex items-center space-x-4 my-12">
                 <img src="/semicolon-logo.svg" alt="Semicolon Logo" className="h-6 cursor-pointer" />
                 <span className="text-gray-400">|</span>
