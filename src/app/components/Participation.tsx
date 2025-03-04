@@ -2,7 +2,7 @@ const Participation =()=>{
     return(
         
       <div className="bg-[#F6F6F6] ">
-      <div className="rounded-lg p-6 md:p-8 flex flex-col md:flex-row gap-4 md:gap-0  items-center  max-w-6xl mx-auto">
+      <div className="rounded-lg p-6 md:p-8 flex flex-col md:flex-row gap-4 md:gap-8  items-center  max-w-6xl mx-auto">
         {/* Image Section */}
         <div className="md:w-1/2 flex justify-center">
           <img
